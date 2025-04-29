@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "node static-server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "@netlify/plugin-nextjs": "^5.10.7",
